@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+With 10+ years of experience in software development, I specialize in creating high-quality, user-friendly mobile and web applications using Flutter and FlutterFlow. My journey in development is enriched by a background in Philosophy, which has honed my ability to approach problems with a unique blend of creativity, critical thinking, and analytical skills. This combination allows me to develop innovative solutions that not only meet technical requirements but also provide an intuitive and seamless user experience.
+
+Throughout my career, I have successfully delivered a wide range of projects across various industries, including telehealth, financial services, eCommerce, and more. My expertise extends from developing MVPs for startups to scaling applications for global enterprises, with a keen focus on performance, scalability, and maintainability. I am proficient in all aspects of the development lifecycle, from initial concept and design to deployment and post-launch support.
+
+I am passionate about learning new technologies and continuously improving my skills, which is why I stay up-to-date with the latest developments in the Flutter ecosystem. My philosophy background enables me to approach challenges with a balanced perspective, considering both technical and ethical implications, which is particularly valuable when developing applications that prioritize user privacy and data security.
+
+Whether working independently or collaborating with cross-functional teams, I am committed to delivering high-quality solutions that exceed client expectations. My ability to merge creative ideas with technical expertise allows me to create applications that are not only functional but also enjoyable to use.
